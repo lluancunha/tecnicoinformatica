@@ -1,1 +1,2 @@
 Criando arquivos no GitHub, utilizando a guia Add Files.
+Alterando o arquivo senac.txt
