@@ -1,0 +1,7 @@
+Primeira etapa: Criar o Pendrive do linux mint;
+Download do linux mint: http://mint.c3sl.ufpr.br/stable/20.3/linuxmint-20.3-cinnamon-64bit.iso
+Rufus: https://rufus.ie/pt_BR/
+Segunda etapa: Bootar no notebook;
+Tecla de menu de inicialização: F8
+Terceira etapa: Formatar e instalar o linux mint.
+Gparted
