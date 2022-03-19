@@ -2,3 +2,5 @@ Criando arquivos no GitHub, utilizando a guia Add Files.
 Apagando conteudo no GitHub.
 
 Atualizando do GitHub para o repositório local
+finalizando pq SEXTOU
+
